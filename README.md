@@ -1,4 +1,4 @@
-# Dio-Angular-Tecnicas-Avancadas <img align="center" alt="MatJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+# Dio-Angular-Tecnicas-Avançadas <img align="center" alt="MatJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
 ### Curso de desenvolvimento em angular 8   
 
 #### Desenvolvimento de um CRUD em angular 8, com algumas tecnicas mais avançadas como:
